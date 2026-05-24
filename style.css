@@ -25,12 +25,13 @@ body {
 }
 
 .homelink{
-    color: brown;
+    color: purple;
     text-align:center ;
     font-size: 60px;
     background-color: brown;
 
 }
+
 
 .pagetop{
     border: 10px solid lightcoral ;
