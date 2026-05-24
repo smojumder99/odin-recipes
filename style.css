@@ -1,0 +1,49 @@
+body {
+    background-color: lightyellow;
+    font-family: 'Times New Roman', Arial, Verdana, sans-serif;
+}
+
+
+.main_heading {
+    text-align: center;
+    font-size: 90px;
+    border: 20px solid olivedrab;
+    background-color: bisque;
+    margin: 0px;
+}
+
+.main-page ul {
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.recipe-page{
+    background-color: lightsalmon   ;
+}
+
+.homelink{
+    color: brown;
+    text-align:center ;
+    font-size: 60px;
+    background-color: brown;
+
+}
+
+.pagetop{
+    border: 10px solid lightcoral ;
+    font-size: 25px;
+    margin: 10px 800px 5px 2px;
+    text-align: center;
+    color: black;
+    background-color: lightgoldenrodyellow  ;
+    text-align: center;
+}
+
+.pagetop img{
+    width: 400px;
+}
+
+
